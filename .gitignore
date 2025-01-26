@@ -1,0 +1,24 @@
+# Fichiers et répertoires générés par IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+
+# Fichiers de build Maven
+/target/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de configuration du système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration spécifiques à l'IDE
+/.idea/
+/*.iws
+/*.ipr
+/*.iml
+
+# Fichiers de configuration spécifiques à Maven
+.mvn/
+.settings/

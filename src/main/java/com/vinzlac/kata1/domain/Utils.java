@@ -1,4 +1,4 @@
-package com.vinzlac.kata.kata1;
+package com.vinzlac.kata1.domain;
 
 public class Utils {
   public static float roundDecimal(float value, int decimalPlaces) {

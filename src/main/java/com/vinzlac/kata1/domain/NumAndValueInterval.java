@@ -1,6 +1,6 @@
-package com.vinzlac.kata.kata1;
+package com.vinzlac.kata1.domain;
 
-import com.vinzlac.kata.kata1.ProbabilisticRandomGen.NumAndProbability;
+import com.vinzlac.kata1.domain.ProbabilisticRandomGen.NumAndProbability;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collector;

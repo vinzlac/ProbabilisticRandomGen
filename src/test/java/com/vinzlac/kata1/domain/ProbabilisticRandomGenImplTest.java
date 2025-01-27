@@ -1,11 +1,11 @@
-package com.vinzlac.kata.kata1;
+package com.vinzlac.kata1.domain;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.vinzlac.kata.kata1.Utils.roundDecimal;
+import static com.vinzlac.kata1.domain.Utils.roundDecimal;
 import static org.junit.jupiter.api.Assertions.*;
 
 class ProbabilisticRandomGenImplTest {

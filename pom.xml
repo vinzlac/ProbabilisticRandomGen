@@ -15,7 +15,6 @@
   </properties>
 
   <dependencies>
-    <!-- Dépendance principale pour JUnit 5 -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter</artifactId>
@@ -23,7 +22,6 @@
       <scope>test</scope>
     </dependency>
 
-    <!-- Dépendance pour les assertions (inclus dans junit-jupiter, mais séparée si nécessaire) -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
@@ -31,7 +29,6 @@
       <scope>test</scope>
     </dependency>
 
-    <!-- Dépendance pour l'exécution des tests -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-engine</artifactId>

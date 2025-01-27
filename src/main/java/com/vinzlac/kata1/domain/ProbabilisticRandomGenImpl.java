@@ -1,6 +1,5 @@
-package com.vinzlac.kata.kata1;
+package com.vinzlac.kata1.domain;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 

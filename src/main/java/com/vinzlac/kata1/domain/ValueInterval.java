@@ -1,4 +1,4 @@
-package com.vinzlac.kata.kata1;
+package com.vinzlac.kata1.domain;
 
 public class ValueInterval {
 	private final float inclusiveMin;
